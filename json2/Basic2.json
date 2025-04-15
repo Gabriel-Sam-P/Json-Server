@@ -1,0 +1,24 @@
+{
+  "post": [
+    {
+      "title": "Post One",
+      "body": "body One",
+      "id": "1"
+    },
+    {
+      "title": "Post Two",
+      "body": "body Two",
+      "id": "2"
+    },
+    {
+      "id": 3,
+      "title": "san",
+      "body": "son"
+    },
+    {
+      "id": 4,
+      "title": "asd",
+      "body": "dsfb"
+    }
+  ]
+}
